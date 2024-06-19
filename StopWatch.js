@@ -68,6 +68,7 @@ const reset = () => {
   miniSecond.innerHTML = `&nbsp;0`;
   resetButton.classList.add('hidden');
   lapButton.classList.add('hidden');
+  clearAll();
 }
 
 const lap = () => {
