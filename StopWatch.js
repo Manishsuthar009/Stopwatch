@@ -45,7 +45,7 @@ const play = () => {
       }
       miniSecond.innerHTML = `&nbsp;${++msecCounter}`;
     }, 10);
-
+    var manish = 23;
     isPlay = true;
     isReset = true;
   }else{
